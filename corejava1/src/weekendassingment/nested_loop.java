@@ -15,9 +15,4 @@ public class nested_loop {
 
 	}
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
 }
